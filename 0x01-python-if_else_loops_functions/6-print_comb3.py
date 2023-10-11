@@ -6,5 +6,5 @@ for i in range(10):
             continue
         if (i != 8):
             print(f"{i}{j}", end=", ")
-        else:   
+        else:
             print(f"{i}{j}")
